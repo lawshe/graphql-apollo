@@ -1,5 +1,5 @@
 # graphql-apollo
-This is a tutorial I did for GraphQL, React, Redux and Apollo.
+This is a tutorial I followed for GraphQL, React, Redux and Apollo.
 
 [Part 1: the frontend](https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b)
 
